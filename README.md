@@ -30,6 +30,3 @@ Choose the latest versions of any of the dependencies below:
 * [matplotlib](https://matplotlib.org/)
 * [sklearn](http://scikit-learn.org/stable/)
 
-## License
-
-MIT. See the LICENSE file for the copyright notice.
